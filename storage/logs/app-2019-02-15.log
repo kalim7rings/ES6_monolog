@@ -1,0 +1,16 @@
+[2019-02-15 08:51:44] testApp.INFO: Foo 123 [] {"uid":"5b7a6a4"}
+[2019-02-15 09:13:46] testApp.INFO: Foo 123 [] {"uid":"10588a7"}
+[2019-02-15 09:13:58] testApp.INFO: Foo 123 [] {"uid":"8c23420"}
+[2019-02-15 09:14:18] testApp.INFO: Foo 123 [] {"uid":"cd03c3d"}
+[2019-02-15 09:16:10] testApp.INFO: Foo 123 [] {"uid":"8d53365"}
+[2019-02-15 09:16:11] testApp.INFO: Foo 123 [] {"uid":"5fafec6"}
+[2019-02-15 09:16:11] testApp.INFO: Foo 123 [] {"uid":"8b3f65d"}
+[2019-02-15 09:19:26] testApp.INFO: Foo 123 [] {"uid":"1c17ee1"}
+[2019-02-15 09:19:35] testApp.INFO: Foo 123 [] {"uid":"16da87c"}
+[2019-02-15 09:19:35] testApp.INFO: Foo 123 [] {"uid":"e2c1bdd"}
+[2019-02-15 09:19:35] testApp.INFO: Foo 123 [] {"uid":"f6b2015"}
+[2019-02-15 09:19:48] testApp.INFO: Foo 123 [] {"uid":"94f208a"}
+[2019-02-15 09:19:49] testApp.INFO: Foo 123 [] {"uid":"2c89c9b"}
+[2019-02-15 09:20:10] testApp.INFO: Foo 123 [] {"uid":"f1d13fb"}
+[2019-02-15 09:45:14] testApp.INFO: Foo 123 [] {"uid":"6024265"}
+[2019-02-15 10:25:53] testApp.INFO: Foo 123 [] {"uid":"756eb79"}
